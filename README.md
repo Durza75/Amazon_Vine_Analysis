@@ -15,4 +15,6 @@ Amazon Review Datasets
 Extracted the dataset, transformed the data, connected to an AWS RDS instance, loaded the transformed data into pgAdmin, and calculated different metrics. Conducted all the above via an ETL process.
 
 ## Summary
-51% of the reviews in the Vine program were 5 stars, Non-Vine reviews on the other hand were low: as low as 39%. The analysis showed that a favorable bias exists towards the reviews in the Vine program.
+51% of the reviews in the Vine program were 5 stars, Non-Vine reviews on the other hand were low: as low as 39%. The analysis showed that a favorable bias exists towards the reviews in the Vine program.  
+
+The leadership is recommended to focus on the Vine program since it is so popular, and as an addition may even explore pursuin another program similar to that of Vine as another source of income.
